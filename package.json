@@ -1,5 +1,5 @@
 {
-  "name": "apispec-query-mcp",
+  "name": "spectacle-mcp",
   "version": "0.1.0",
   "description": "MCP server for querying OpenAPI specifications",
   "type": "module",

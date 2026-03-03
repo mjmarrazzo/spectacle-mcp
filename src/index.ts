@@ -16,7 +16,7 @@ import {
 } from './format.js';
 
 const server = new McpServer({
-  name: 'apispec-query',
+  name: 'spectacle',
   version: '0.1.0',
 });
 
