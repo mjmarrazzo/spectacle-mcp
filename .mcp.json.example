@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "apispec-query": {
+      "command": "npx",
+      "args": ["tsx", "src/index.ts"],
+      "cwd": "/absolute/path/to/apispec-query-mcp"
+    }
+  }
+}
